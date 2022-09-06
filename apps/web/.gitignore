@@ -1,0 +1,7 @@
+node_modules
+/app/styles/app.css
+/.cache
+/functions/\[\[path\]\].js
+/functions/\[\[path\]\].js.map
+/public/build
+.env
